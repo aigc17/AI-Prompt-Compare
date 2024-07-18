@@ -1,4 +1,7 @@
 ## AI Prompt Compare
+<img width="755" alt="image" src="https://github.com/user-attachments/assets/07fb459e-ffeb-49a2-9a37-de39d1b9d33a">
+<img width="826" alt="image" src="https://github.com/user-attachments/assets/999dbe7a-0295-455b-991e-8e4941909165">
+
 
 ### 项目描述
 
